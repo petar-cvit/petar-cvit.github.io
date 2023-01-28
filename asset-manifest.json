@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/petar-cvit.github.io/static/css/main.a02c57c7.css",
+    "main.js": "/petar-cvit.github.io/static/js/main.1c4cb8e7.js",
+    "index.html": "/petar-cvit.github.io/index.html",
+    "main.a02c57c7.css.map": "/petar-cvit.github.io/static/css/main.a02c57c7.css.map",
+    "main.1c4cb8e7.js.map": "/petar-cvit.github.io/static/js/main.1c4cb8e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a02c57c7.css",
+    "static/js/main.1c4cb8e7.js"
+  ]
+}
