@@ -2,8 +2,8 @@ apiVersion: v1
 entries:
   application:
   - apiVersion: v1
-    created: "2023-12-20T22:47:24.444578+01:00"
-    digest: afc803393e3fbb454ed66c79894be1d1c1ed9aed7df0f6cb00a5e1c16cebde7c
+    created: "2023-12-20T22:48:24.106621+01:00"
+    digest: 643cab4e1979989cf596502b3dfc223802826bb0ae62ca40b1f836139d174bcd
     name: application
     urls:
     - https://petar-cvit.github.io/application-0.0.0.tgz
@@ -11,12 +11,12 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-20T22:47:24.444948+01:00"
+    created: "2023-12-20T22:48:24.107183+01:00"
     description: A Helm chart for Kubernetes
-    digest: a69ff64adc95f11c36d80d1f50b5602cb70d13615652464779315f63558bded6
+    digest: 3397443a23c9cc3f35dd612aa0642207cd977497331895c4d4baa0d1811c2e18
     name: test
     type: application
     urls:
     - https://petar-cvit.github.io/test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-20T22:47:24.443882+01:00"
+generated: "2023-12-20T22:48:24.10488+01:00"
