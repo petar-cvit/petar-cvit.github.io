@@ -1,0 +1,5 @@
+name: juraj
+replicas: 3
+
+image: nginx
+version: 1.14.2

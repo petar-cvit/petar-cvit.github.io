@@ -1,0 +1,12 @@
+name: lea
+replicas: 3
+
+image: nginx
+version: 1.14.2
+
+service: true
+
+mysql:
+  enabled: false
+  primary:
+    fullname: "moj-test-mysql"
