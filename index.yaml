@@ -2,7 +2,14 @@ apiVersion: v1
 entries:
   application:
   - apiVersion: v1
-    created: "2023-12-21T17:16:19.693423+01:00"
+    created: "2023-12-21T17:18:42.665681+01:00"
+    digest: be7b4271416817edac6c6eb48b878b95fdabbffd13d854712a501b8930ce1b83
+    name: application
+    urls:
+    - https://petar-cvit.github.io/application-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    created: "2023-12-21T17:18:42.665112+01:00"
     digest: 643cab4e1979989cf596502b3dfc223802826bb0ae62ca40b1f836139d174bcd
     name: application
     urls:
@@ -10,8 +17,8 @@ entries:
     version: 0.0.0
   lala:
   - apiVersion: v1
-    created: "2023-12-21T17:16:19.693822+01:00"
-    digest: a71bf180f51b772a8a739bbc505b985cad9a78d2d45484fe456fb1f7b4c96786
+    created: "2023-12-21T17:18:42.665951+01:00"
+    digest: 0427b4a122e9b968c43b1d529f766f1224559ef31441f79d3bf11f64fd808c4f
     name: lala
     urls:
     - https://petar-cvit.github.io/lala-0.0.0.tgz
@@ -19,12 +26,12 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-21T17:16:19.694603+01:00"
+    created: "2023-12-21T17:18:42.666546+01:00"
     description: A Helm chart for Kubernetes
-    digest: 3397443a23c9cc3f35dd612aa0642207cd977497331895c4d4baa0d1811c2e18
+    digest: ba98cf6b95ecd1794a1508879b0f188e8a20a3d494e73920a6aa670c1ad79ec9
     name: test
     type: application
     urls:
     - https://petar-cvit.github.io/test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-21T17:16:19.692807+01:00"
+generated: "2023-12-21T17:18:42.664107+01:00"
