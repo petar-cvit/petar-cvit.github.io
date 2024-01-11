@@ -1,7 +1,0 @@
-apiVersion: v1
-name: application
-version: 0.2.0
-dependencies:
-  - name: lala
-    version: "0.0.0"
-    repository: "https://petar-cvit.github.io"

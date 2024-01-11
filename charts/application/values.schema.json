@@ -24,8 +24,6 @@
   "order": [
     "name",
     "replicas",
-    "script",
-    "json",
     "image",
     "version",
     "service"

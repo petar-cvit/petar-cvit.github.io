@@ -1,6 +1,0 @@
-dependencies:
-- name: lala
-  repository: https://petar-cvit.github.io
-  version: 0.0.0
-digest: sha256:85bf505399514c92429778d324bb713861963bf482dfc8e2ddaf4a3ab01f68ee
-generated: "2023-12-21T17:17:53.7756+01:00"

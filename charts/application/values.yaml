@@ -1,0 +1,5 @@
+name: dependency-default-value
+replicas: 1
+
+image: nginx
+version: 1.14.0
