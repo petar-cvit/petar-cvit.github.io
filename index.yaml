@@ -2,35 +2,42 @@ apiVersion: v1
 entries:
   application:
   - apiVersion: v1
-    created: "2024-05-07T22:21:03.300639+02:00"
+    created: "2024-05-07T23:14:44.561584+02:00"
+    digest: d3e7e9c638eac7678f717be4821df39b0ba48642815a662d295771a39ec7b03c
+    name: application
+    urls:
+    - https://petar-cvit.github.io/application-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v1
+    created: "2024-05-07T23:14:44.561505+02:00"
     digest: ca3439162793caf7a007bd03213cf1b8204dd6f43d7bded5dc34d04739efbaca
     name: application
     urls:
     - https://petar-cvit.github.io/application-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
-    created: "2024-05-07T22:21:03.300421+02:00"
+    created: "2024-05-07T23:14:44.561307+02:00"
     digest: 5be8e6096463f9df972e21121ba76697ade1514888ad5dfbf9324902f413de5c
     name: application
     urls:
     - https://petar-cvit.github.io/application-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: "2024-05-07T22:21:03.299047+02:00"
+    created: "2024-05-07T23:14:44.561004+02:00"
     digest: f4b1da0d41182354c36ac2a4773591483b21f585882cc4b5123d5042c98d7fe1
     name: application
     urls:
     - https://petar-cvit.github.io/application-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: "2024-05-07T22:21:03.298815+02:00"
+    created: "2024-05-07T23:14:44.560747+02:00"
     digest: 8c917fbc19d61b7649a899d2aa4a74554a98651a5237a535a6436cd14de89d2b
     name: application
     urls:
     - https://petar-cvit.github.io/application-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
-    created: "2024-05-07T22:21:03.298595+02:00"
+    created: "2024-05-07T23:14:44.560502+02:00"
     digest: 643cab4e1979989cf596502b3dfc223802826bb0ae62ca40b1f836139d174bcd
     name: application
     urls:
@@ -38,7 +45,7 @@ entries:
     version: 0.0.0
   lala:
   - apiVersion: v1
-    created: "2024-05-07T22:21:03.300753+02:00"
+    created: "2024-05-07T23:14:44.561708+02:00"
     digest: fa208916c2d6dc1187a825b6a9b5cb12186601fc7a0be9a110e484b4f2d88315
     name: lala
     urls:
@@ -47,7 +54,7 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-07T22:21:03.30094+02:00"
+    created: "2024-05-07T23:14:44.561946+02:00"
     description: A Helm chart for Kubernetes
     digest: 5cc7463abf8f6c31d1e5d731d0637791593eb87bad4afe1edffa0fb3838e81c5
     name: test
@@ -55,4 +62,4 @@ entries:
     urls:
     - https://petar-cvit.github.io/test-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-07T22:21:03.298177+02:00"
+generated: "2024-05-07T23:14:44.559789+02:00"

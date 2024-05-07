@@ -1,5 +1,9 @@
 {
   "properties": {
+    "jos-jednom": {
+      "description": "Demo version bump",
+      "type": "string"
+    },
     "my-new-field": {
       "description": "Demo version bump",
       "type": "string"
@@ -26,6 +30,7 @@
     }
   },
   "order": [
+    "jos-jednom",
     "my-new-field",
     "name",
     "replicas",
